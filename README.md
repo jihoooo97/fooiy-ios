@@ -23,8 +23,6 @@
 <br/><br/>
 
 ## Tech
-> <img src="https://user-images.githubusercontent.com/49361214/221786856-2d975c05-8b54-47bb-ae6f-cba454ce7b84.png" width="80%" height="100%"> 
->
 > * **UIKit**
 > * **Swift**
 > * **MVVM**
@@ -64,19 +62,19 @@
 <br/><br/><br/><br/>
   
 ## 기능
-### [푸이티아이]()
+### [푸이티아이](https://github.com/jihoooo97/fooiy-ios/tree/main/fooiyti)
 > <img src="https://user-images.githubusercontent.com/49361214/221782883-e5319299-3da5-42ca-b32d-33d8f124e5e8.png" width="24%" height="80%"> <img src="https://user-images.githubusercontent.com/49361214/221789865-c02ee581-24cb-4b79-bb36-e96adb300a2b.png" width="75%" height="100%">   
 <br/>
 
-### [지도]()
+### [지도](https://github.com/jihoooo97/fooiy-ios/tree/main/map)
 > <img src="https://user-images.githubusercontent.com/49361214/221782879-4bec60ea-522a-4a44-8219-48ae0059ff30.png" width="24%" height="80%"> <img src="https://user-images.githubusercontent.com/49361214/221789873-f14873ef-7185-4e8f-a5d9-f250506eb784.png" width="75%" height="100%">   
 <br/>
 
-### [개척/기록]()
+### [개척/기록](https://github.com/jihoooo97/fooiy-ios/tree/main/pioneer)
 > <img src="https://user-images.githubusercontent.com/49361214/221782875-f525674b-bcd3-49c3-9c57-2e6ce59371ed.png" width="24%" height="80%"> <img src="https://user-images.githubusercontent.com/49361214/221789881-63c104fa-c13b-472c-8d6d-cad0cc20259b.png" width="75%" height="100%">   
 <br/>
 
-### [피드](), [내 정보]()
+### [피드](https://github.com/jihoooo97/fooiy-ios/tree/main/feed), [내 정보](https://github.com/jihoooo97/fooiy-ios/tree/main/mypage)
 > <img src="https://user-images.githubusercontent.com/49361214/221782838-455e5678-3d47-4e3a-898a-52abcc6db9b7.png" width="24%" height="80%"> <img src="https://user-images.githubusercontent.com/49361214/221789885-16d8ed14-49df-40bd-9b8b-5814b9f6c7b3.png" width="75%" height="100%">   
 
 <br/><br/><br/><br/>
