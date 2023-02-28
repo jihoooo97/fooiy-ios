@@ -1,6 +1,6 @@
 # fooiy(v1.2.0) 포트폴리오
-* [AppStore](https://apps.apple.com/us/app/푸이-내-손안의-모든-음식점/id1640024571)  
-* [Web](https://fooiy.com)
+* 앱스토어 링크: [AppStore](https://apps.apple.com/us/app/푸이-내-손안의-모든-음식점/id1640024571)  
+* fooiy 웹사이트: [Web](https://fooiy.com)
 <br/>
 
 <img src="https://user-images.githubusercontent.com/49361214/221785257-d651ada8-b333-49cc-8b6a-fa26ebe555f1.png" width="80%" height="50%">   
@@ -15,17 +15,20 @@
 ## 푸이티아이
 <img src="https://user-images.githubusercontent.com/49361214/221786854-e906b620-d717-44fe-8278-f8fa2d12ca49.png" width="80%" height="100%">  
 
-[푸이티아이 검사하기](https://fooiy.com/examine)
+> * [푸이티아이 검사하기](https://fooiy.com/examine)
 <br/><br/>
 
 ## Tech
-<img src="https://user-images.githubusercontent.com/49361214/221786856-2d975c05-8b54-47bb-ae6f-cba454ce7b84.png" width="80%" height="100%">   
-> language: Swift
-> architecture: MVVM <br/>
-> reactive: RxSwift <br/>
-> image: Kingfisher <br/>
-> network: Moya, RxMoya <br/>
-> co-ops: Jira, Git-flow, Slack <br/>
+<img src="https://user-images.githubusercontent.com/49361214/221786856-2d975c05-8b54-47bb-ae6f-cba454ce7b84.png" width="80%" height="100%"> 
+
+> * **UIKit**
+> * **Swift**
+> * **MVVM**
+> * **RxSwift, RxCocoa**
+> * **Moya, RxMoya**
+> * **Kingfisher, Lottie**
+> * **Then**
+> * **Jira, Git-flow, Slack**
 
 <br/><br/>
 
