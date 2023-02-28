@@ -64,12 +64,13 @@
 >   * PR, Code Review를 통한 iOS 간 협업 경험
 >   * 기획, 스펙 회의 등을 통한 AOS, BackEnd, Design 직군과의 협업 경험
 >   * Jira를 활용한 애자일 경험
+>   * Git-Flow를 활용한 코드 관리
 > * Tech   
->   * RxSwift
+>   * RxRelay, RxMoya
 >   * 모듈화를 통한 코드 재사용
->   * 효율적인 데이터 처리를 위한 scrollView pagenation
+>   * 효율적인 데이터 처리를 위한 ScrollView Pagenation
 >   * Code-Based UI
->   * Server Side Rendering
+>   * Server Side Rendering, A/B Testing
 >   * Navermap marker custom
 
 <br/><br/><br/><br/>
