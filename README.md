@@ -59,6 +59,21 @@
 
 <br/><br/><br/><br/>
 
+## 배운 점
+> * Co-Work
+>   * PR, Code Review를 통한 iOS 간 협업 경험
+>   * 기획, 스펙 회의 등을 통한 AOS, BackEnd, Design 직군과의 협업 경험
+>   * Jira를 활용한 애자일 경험
+> * Tech   
+>   * RxSwift
+>   * 모듈화를 통한 코드 재사용
+>   * 효율적인 데이터 처리를 위한 scrollView pagenation
+>   * Code-Based UI
+>   * Server Side Rendering
+>   * Navermap marker custom
+
+<br/><br/><br/><br/>
+
 ## 성과
 <img src="https://user-images.githubusercontent.com/49361214/221795398-72c52ba5-72ba-4cd4-b2c3-3426734dbddf.png" width="40%" height=""><img src="https://user-images.githubusercontent.com/49361214/221795406-f85dd5ef-0ccc-46b4-8bcb-d59308b98398.png" width="40%" height="">
 <img src="https://user-images.githubusercontent.com/49361214/221795419-7a04b296-39dd-4e67-a7c7-563f96e2c0d5.png" width="80%" height="">
