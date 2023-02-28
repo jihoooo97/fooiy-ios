@@ -14,13 +14,13 @@
 <br/><br/>
 
 ## Tech
-<img src="https://user-images.githubusercontent.com/49361214/221786856-2d975c05-8b54-47bb-ae6f-cba454ce7b84.png" width="80%" height="100%">
- * language: Swift
- * architecture: MVVM <br/>
- * reactive: RxSwift <br/>
- * image: Kingfisher <br/>
- * network: Moya, RxMoya <br/>
- * co-ops: Jira, Git-flow, Slack <br/>
+<img src="https://user-images.githubusercontent.com/49361214/221786856-2d975c05-8b54-47bb-ae6f-cba454ce7b84.png" width="80%" height="100%">   
+> language: Swift
+> architecture: MVVM <br/>
+> reactive: RxSwift <br/>
+> image: Kingfisher <br/>
+> network: Moya, RxMoya <br/>
+> co-ops: Jira, Git-flow, Slack <br/>
 
 <br/><br/>
 
