@@ -52,7 +52,8 @@
 >   * Jira를 활용한 애자일 경험
 >   * Git-Flow를 활용한 코드 관리
 > * Tech   
->   * RxRelay, RxMoya
+>   * RxRelay, Moya
+>   * Clean Architecture 경험
 >   * 모듈화를 통한 코드 재사용
 >   * 효율적인 데이터 처리를 위한 ScrollView Pagenation
 >   * Code-Based UI
