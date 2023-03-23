@@ -11,26 +11,26 @@
 <br/>
 
 ## 문제 정의
-> <img src="https://user-images.githubusercontent.com/49361214/221785875-21571d1a-50c8-443b-8173-757692f528a2.png" width="80%" height="100%">
+<img src="https://user-images.githubusercontent.com/49361214/221785875-21571d1a-50c8-443b-8173-757692f528a2.png" width="80%" height="100%">
 
 <br/>
 
 ## 푸이티아이
-> <img src="https://user-images.githubusercontent.com/49361214/221786854-e906b620-d717-44fe-8278-f8fa2d12ca49.png" width="80%" height="100%">  
->
-> * [푸이티아이 검사하기](https://fooiy.com/examine)
+<img src="https://user-images.githubusercontent.com/49361214/221786854-e906b620-d717-44fe-8278-f8fa2d12ca49.png" width="80%" height="100%">  
+
+* [푸이티아이 검사하기](https://fooiy.com/examine)
 
 <br/><br/>
 
 ## Tech
-> * **UIKit**
-> * **Swift**
-> * **MVVM**
-> * **RxSwift, RxCocoa**
-> * **Moya, RxMoya**
-> * **Kingfisher, Lottie**
-> * **Then**
-> * **Jira, Git-flow, Slack**
+| Language | Swift |
+|:---:|:---:|
+| Framework | UIKit |
+| Architecture | MVVM |
+| Network | Moya |
+| Reactive | RxSwift, RxCocoa |
+| Library | Kingfisher, Lottie, Then |
+| Co-work | Jira, Slack, Git-flow |
 
 <br/><br/>
 
@@ -81,6 +81,6 @@
 <br/><br/><br/><br/>
 
 ## 성과
-<img src="https://user-images.githubusercontent.com/49361214/221795398-72c52ba5-72ba-4cd4-b2c3-3426734dbddf.png" width="40%" height=""><img src="https://user-images.githubusercontent.com/49361214/221795406-f85dd5ef-0ccc-46b4-8bcb-d59308b98398.png" width="40%" height="">
-<img src="https://user-images.githubusercontent.com/49361214/221795419-7a04b296-39dd-4e67-a7c7-563f96e2c0d5.png" width="80%" height="">
+> <img src="https://user-images.githubusercontent.com/49361214/221795398-72c52ba5-72ba-4cd4-b2c3-3426734dbddf.png" width="40%" height=""><img src="https://user-images.githubusercontent.com/49361214/221795406-f85dd5ef-0ccc-46b4-8bcb-d59308b98398.png" width="40%" height="">
+> <img src="https://user-images.githubusercontent.com/49361214/221795419-7a04b296-39dd-4e67-a7c7-563f96e2c0d5.png" width="80%" height="">
 
