@@ -3,7 +3,7 @@
 * fooiy 웹사이트: [fooiy](https://fooiy.com)
 <br/>
 
-## ⚠️ 현재 창업서비스 중이어서 민감한 코드들은 삭제했습니다
+## ⚠️ 현재 창업팀이 서비스 중이어서 민감한 코드들은 삭제했습니다
 <br/>
 
 <img src="https://user-images.githubusercontent.com/49361214/221785257-d651ada8-b333-49cc-8b6a-fa26ebe555f1.png" width="80%" height="50%">   
