@@ -27,8 +27,9 @@
 | Framework | UIKit |
 | Architecture | MVVM |
 | Network | Moya |
+| Image | Kingfisher |
 | Reactive | RxSwift, RxCocoa |
-| Library | Kingfisher, Lottie, Then |
+| Library | NaverMaps, Firebase<br>  Lottie, Then |
 | Co-work | Jira, Slack, Git-flow |
 
 <br/><br/>
