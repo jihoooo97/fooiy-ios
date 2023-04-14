@@ -1,6 +1,6 @@
 # fooiy(v1.2.0) 포트폴리오
-* 앱스토어 링크: [푸이 - 내 손안의 음식점](https://apps.apple.com/us/app/푸이-내-손안의-모든-음식점/id1640024571)  
-* fooiy 웹사이트: [fooiy](https://fooiy.com)
+* 앱스토어 링크: [`푸이 - 내 손안의 음식점`](https://apps.apple.com/us/app/푸이-내-손안의-모든-음식점/id1640024571)  
+* fooiy 웹사이트: [`fooiy.com`](https://fooiy.com)
 <br/>
 
 ## ⚠️ 현재 창업팀이 서비스 중이어서 민감한 코드들은 삭제했습니다
@@ -15,7 +15,7 @@
 
 <br/>
 
-## 푸이티아이 [검사하기](https://fooiy.com/examine)
+## 푸이티아이 [`검사하기`](https://fooiy.com/examine)
 <img src="https://user-images.githubusercontent.com/49361214/221786854-e906b620-d717-44fe-8278-f8fa2d12ca49.png" width="80%" height="100%">  
 
 
@@ -24,13 +24,13 @@
 ## Tech
 | Language | Swift |
 |:---:|:---:|
-| Framework | UIKit |
-| Architecture | MVVM |
-| Network | Moya |
-| Image | Kingfisher |
-| Reactive | RxSwift, RxCocoa |
-| Library | NaverMaps, Firebase<br>  Lottie, Then |
-| Co-work | Jira, Slack, Git-flow |
+| Framework | `UIKit` |
+| Architecture | `MVVM` |
+| Network | `Moya` |
+| Image | `Kingfisher` |
+| Reactive | `RxSwift`, `RxCocoa` |
+| Library | `NaverMaps`, `Firebase`<br>  `Lottie`, `Then` |
+| Co-work | `Jira`, `Slack`, `Git-flow` |
 
 <br/><br/>
 
@@ -45,12 +45,12 @@
 <br/><br/>
 
 ## 배운 점
-> * Co-Work
+> * `Co-Work`
 >   * PR, Code Review를 통한 iOS 간 협업 경험
 >   * 기획, 스펙 회의 등을 통한 AOS, BackEnd, Design 직군과의 협업 경험
 >   * Jira를 활용한 애자일 경험
 >   * Git-Flow를 활용한 코드 관리
-> * Tech   
+> * `Tech`
 >   * RxSwift, Moya
 >   * Clean Architecture 경험
 >   * 모듈화를 통한 코드 재사용
@@ -62,7 +62,7 @@
 <br/><br/><br/><br/>
   
 ## 기능
-| [푸이티아이](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Feed) | [피드](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Feed) | [개척/기록](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Pioneer) | [지도](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Map) |
+| [`푸이티아이`](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Feed) | [`피드`](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Feed) | [`개척/기록`](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Pioneer) | [`지도`](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Map) |
 |:---:|:---:|:---:|:---:|
 | <img src="https://user-images.githubusercontent.com/49361214/221782883-e5319299-3da5-42ca-b32d-33d8f124e5e8.png"> | <img src="https://user-images.githubusercontent.com/49361214/221782838-455e5678-3d47-4e3a-898a-52abcc6db9b7.png"> | <img src="https://user-images.githubusercontent.com/49361214/221782875-f525674b-bcd3-49c3-9c57-2e6ce59371ed.png"> | <img src="https://user-images.githubusercontent.com/49361214/221782879-4bec60ea-522a-4a44-8219-48ae0059ff30.png"> |
 
