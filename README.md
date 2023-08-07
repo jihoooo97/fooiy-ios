@@ -40,7 +40,7 @@
                
 <br><br>
   
-## 기능
+## 기능 (제목 클릭 - 디테일)
 | [`푸이티아이`](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Feed) | [`피드`](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Feed) | [`개척/기록`](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Pioneer) | [`지도`](https://github.com/jihoooo97/fooiy-ios/tree/main/Feature/Map) |
 |:---:|:---:|:---:|:---:|
 | <img src="https://user-images.githubusercontent.com/49361214/221782883-e5319299-3da5-42ca-b32d-33d8f124e5e8.png"> | <img src="https://user-images.githubusercontent.com/49361214/221782838-455e5678-3d47-4e3a-898a-52abcc6db9b7.png"> | <img src="https://user-images.githubusercontent.com/49361214/221782875-f525674b-bcd3-49c3-9c57-2e6ce59371ed.png"> | <img src="https://user-images.githubusercontent.com/49361214/221782879-4bec60ea-522a-4a44-8219-48ae0059ff30.png"> |
