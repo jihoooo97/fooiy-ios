@@ -1,4 +1,4 @@
-## fooiy - 내 손 안의 음식점 
+## fooiy - 내 손안의 음식점 
 > `2022.04 ~ 2022.12` [앱스토어 바로가기](https://apps.apple.com/kr/app/푸이-내-손안의-모든-음식점/id1640024571)
 
 푸이는 경험한 음식점에 대한 평가를 기록할 수 있고, 입맛의 MBTI인 FooiyTi를 통해 자신의 입맛에 맞는 음식점을 추천해주는 서비스 입니다. <br>
@@ -7,7 +7,8 @@
 
 살아가는데 있어 큰 행복을 차지하는 요소가 하루 한 끼라도 맛있는 음식을 먹는 것이었고, 이를 위해 푸이를 시작하게되었습니다. <br>
 
-<img width="70%" src="https://github.com/user-attachments/assets/725fef4e-aa01-4210-aa09-804990132ae9" /> <br>
+<img width="80%" src="https://github.com/user-attachments/assets/725fef4e-aa01-4210-aa09-804990132ae9" /> <br>
+<img width="20%" src="https://user-images.githubusercontent.com/49361214/221782883-e5319299-3da5-42ca-b32d-33d8f124e5e8.png"><img width="20%" src="https://user-images.githubusercontent.com/49361214/221782838-455e5678-3d47-4e3a-898a-52abcc6db9b7.png"><img width="20%" src="https://user-images.githubusercontent.com/49361214/221782875-f525674b-bcd3-49c3-9c57-2e6ce59371ed.png"><img width="20%" src="https://user-images.githubusercontent.com/49361214/221782879-4bec60ea-522a-4a44-8219-48ae0059ff30.png">
 
 <br>
 
@@ -24,7 +25,7 @@
 
 입맛 지표를 MBTI와 같이 8개로 세분화 하였습니다.
 
-<img width="70%" src="https://user-images.githubusercontent.com/49361214/221786854-e906b620-d717-44fe-8278-f8fa2d12ca49.png" >  <br>
+<img width="70%" src="https://user-images.githubusercontent.com/49361214/221789865-c02ee581-24cb-4b79-bb36-e96adb300a2b.png"> <br>
 
 <details>
   <summary>푸이티아이 자세히 보기</summary>
@@ -39,11 +40,15 @@
 
 ### 개척/기록
 
+<img width="70%" src="https://user-images.githubusercontent.com/49361214/221789881-63c104fa-c13b-472c-8d6d-cad0cc20259b.png">
+
 <details>
     <summary>개척/기록 자세히 보기</summary>
 </details> <br>
 
 ### 음식점 지도
+
+<img width="70%" src="https://user-images.githubusercontent.com/49361214/221789873-f14873ef-7185-4e8f-a5d9-f250506eb784.png">
 
 <details>
     <summary>음식점 지도 자세히 보기</summary>
@@ -51,17 +56,25 @@
 
 ### 피드
 
+<img width="70%" src="https://user-images.githubusercontent.com/49361214/221789885-16d8ed14-49df-40bd-9b8b-5814b9f6c7b3.png">
+
 <details>
     <summary>피드 자세히 보기</summary>
 </details> <br>
 
-| 푸이티아이 | 피드 | 개척/기록 | 지도 |
-|:---:|:---:|:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/49361214/221782883-e5319299-3da5-42ca-b32d-33d8f124e5e8.png"> | <img src="https://user-images.githubusercontent.com/49361214/221782838-455e5678-3d47-4e3a-898a-52abcc6db9b7.png"> | <img src="https://user-images.githubusercontent.com/49361214/221782875-f525674b-bcd3-49c3-9c57-2e6ce59371ed.png"> | <img src="https://user-images.githubusercontent.com/49361214/221782879-4bec60ea-522a-4a44-8219-48ae0059ff30.png"> |
-
-
 <br><br>
 
+## 📚 스킬
+
+### Clean Architecture + MVVM
+
+### RxSwift
+
+### PHPicker
+
+### CoreLocation
+
+<br><br>
 
 ### 💪  **담당 기능**
 * 푸이 iOS 앱 개발 및 유지보수
@@ -101,17 +114,17 @@
 <img width="35%" src="https://user-images.githubusercontent.com/49361214/221795398-72c52ba5-72ba-4cd4-b2c3-3426734dbddf.png"><img width="35%" src="https://user-images.githubusercontent.com/49361214/221795406-f85dd5ef-0ccc-46b4-8bcb-d59308b98398.png">
 <img width="70%" src="https://user-images.githubusercontent.com/49361214/221795419-7a04b296-39dd-4e67-a7c7-563f96e2c0d5.png">
 
-- v1.2.0 업데이트로 사용자의 참여도가 높아진 것을 확인
-    - **평균 참여시간** 13분 11초 → 17분 47초로 증가
-    - **참여 세션 수** 1.8 → 2.6으로 증가
-    - **세션당 평균 참여 시간** 4분 13초 → 5분 25초로 증가
-- KPI 회원 수 1,467명, 사용자의 음식점 개척 수 1,722개의 성과
+정기적인 업데이트로 사용자의 참여도가 높아진 것을 확인
+- **사용자 수**: 902명 -> 1467명으로 증가
+- **평균 참여시간**: 13분 11초 → 17분 47초로 증가
+- **참여 세션(화면) 수**: 1.8 → 2.6으로 증가
+- **세션당 평균 참여 시간**: 4분 13초 → 5분 25초로 증가
 
 <br><br>
 
 
 ### 🔗  링크
-- **fooiy 웹사이트**: [fooiy.com](https://fooiy.com)
+- **홈페이지**: [fooiy.com](https://fooiy.com)
 - **머니투데이 기사:** https://news.mt.co.kr/mtview.php?no=2022091716551984413
   
 <br><br>
