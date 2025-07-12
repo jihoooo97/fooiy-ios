@@ -18,6 +18,7 @@
 `NaverMaps` `Firebase` `Lottie`
                
 <br><br>
+
   
 ## ✨ 기능 소개
 
@@ -64,15 +65,19 @@
 
 <br><br>
 
+
 ## 📚 스킬
 
 ### Clean Architecture + MVVM
 
 ### RxSwift
 
-### PHPicker
+### Server Driven UI
+- UI가 자주 변동되는 Feature에서 Server Driven UI와 A/B Test를 활용하여 스펙 변동이 잦은 UI를 효율적으로 개발
 
-### CoreLocation
+### PHPicker
+- 사진의 메타 데이터에서 음식 촬영 장소를 추출합니다.
+- 이를 활용하여 사용자가 음식점 위치를 지정해야하는 귀찮음을 덜어냈습니다.
 
 <br><br>
 
@@ -90,22 +95,7 @@
 ### 🤔 **고민한 점**
 - Clean Architecture를 활용한 효율적인 서비스의 구조
 - Back-end단과 효율적인 네트워크 통신
-- 사용자의 편의성을 고려한 UI/UX
-
-<br>
-
-### 😮 **배운 점**
-- FooiyTI 기획 및 서비스 구조 설계를 통한 팀원과 협업 능력
-- 모듈화를 통해 UI와 비즈니스 코드를 효율적으로 관리하고 재사용하는 환경 경험
-- Git-Flow, Jira를 활용한 코드 관리 및 애자일 경험
-- 디자인 시스템, 커스텀 UI
-- UI가 자주 변동되는 Feature에서 Server Driven UI와 A/B Test를 활용하여 스펙 변동이 잦은 UI를 효율적으로 개발
-
-<br>
-
-### 🥲 **아쉬운 점**
-- MVP 배포 일정에 밀려 CI/CD를 구축해보지 못함
-- UnitTest의 부재
+- 사용자와의 지속적인 소통을 통한 사용자 친화적 UI/UX 개발
 
 <br><br>
 
