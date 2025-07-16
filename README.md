@@ -128,13 +128,19 @@ end
 - Presentation, Domain, Network Layer로 분리하여 각 Layer의 역할을 나누었습니다.
 - MVVM 패턴으로 UI 로직과 비즈니스 로직을 분리했습니다.
 
+<br>
+
 ### RxSwift
 연속된 escaping closure를 피하고, 비동기처리를 직관적으로 구현하기 위해 RxSwift를 사용하게 되었습니다.
+
+<br>
 
 ### Server Driven UI
 푸이는 배포 초기에 UI 기획 변경이 잦아 반복적인 배포 과정이 비효율적이었습니다. <br> 
 변화하는 기획에 유연하게 대응할 수 있는 구조가 필요했기 때문에 서버에서 내려주는 데이터에 따라 UI를 구성하는 <br> 
 Server Driven UI를 도입하여 배포 없이도 화면 수정이 가능하도록 개선했습니다.
+
+<br>
 
 ### PHPicker
 리뷰를 등록할 때마다 음식점의 주소를 지정해야하는 것이 번거롭다는 사용자의 피드백이 있었습니다. <br> 
