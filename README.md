@@ -1,11 +1,11 @@
 ## fooiy - 내 손안의 음식점 
 > `2022.04 ~ 2022.12` [앱스토어 바로가기](https://apps.apple.com/kr/app/푸이-내-손안의-모든-음식점/id1640024571)
 
-푸이는 경험한 음식점에 대한 평가를 기록할 수 있고, 입맛의 MBTI인 FooiyTi를 통해 자신의 입맛에 맞는 음식점을 추천해주는 서비스 입니다. <br>
+평점이 높아서 방문한 맛집이 막상 내 입맛과 맞지 않아 실망했던 적이 있으신가요? <br>
 
-여러 경험과 관찰을 통해 큰 서비스가 되기 위해서, 사람이 살아가는데 필수적 3요소인 “의, 식, 주” 중 하나여야 한다고 생각했습니다. <br>
+푸이는 이러한 문제를 해결하기 위해, 평점 기반의 리뷰에서 벗어나 사용자의 입맛 성향을 분석한 'FooiyTI'를 기반으로 리뷰를 남기고 <br>
 
-살아가는데 있어 큰 행복을 차지하는 요소가 하루 한 끼라도 맛있는 음식을 먹는 것이었고, 이를 위해 푸이를 시작하게되었습니다. <br>
+유사한 입맛의 사람들이 선호한 음식점을 추천해주는 서비스입니다. <br>
 
 <img width="80%" src="https://github.com/user-attachments/assets/725fef4e-aa01-4210-aa09-804990132ae9" /> <br>
 <img width="20%" src="https://user-images.githubusercontent.com/49361214/221782883-e5319299-3da5-42ca-b32d-33d8f124e5e8.png"><img width="20%" src="https://user-images.githubusercontent.com/49361214/221782838-455e5678-3d47-4e3a-898a-52abcc6db9b7.png"><img width="20%" src="https://user-images.githubusercontent.com/49361214/221782875-f525674b-bcd3-49c3-9c57-2e6ce59371ed.png"><img width="20%" src="https://user-images.githubusercontent.com/49361214/221782879-4bec60ea-522a-4a44-8219-48ae0059ff30.png">
@@ -24,7 +24,7 @@
 
 ### 푸이티아이
 
-입맛 지표를 MBTI와 같이 8개로 세분화 하였습니다.
+질문지를 통해 푸이티아이(입맛 성향)를 분석할 수 있습니다.
 
 <img width="70%" src="https://user-images.githubusercontent.com/49361214/221789865-c02ee581-24cb-4b79-bb36-e96adb300a2b.png"> <br>
 
@@ -34,33 +34,62 @@
 
   > 🧾 푸이티아이
 
-  <img width="20%" src="https://user-images.githubusercontent.com/49361214/221782883-e5319299-3da5-42ca-b32d-33d8f124e5e8.png"> <br>
-  
+  <img width="20%" src="https://github.com/user-attachments/assets/94f9ad66-6abb-4fa8-8d9d-4d58c62e2118" />
+  <img width="20%" src="https://github.com/user-attachments/assets/8de2410c-2446-4d32-8609-288d5927e4e2" />
+  <img width="20%" src="https://github.com/user-attachments/assets/d5f882d7-306d-4a35-b895-a412fa2a4aba" />
+  <img width="20%" src="https://github.com/user-attachments/assets/696d9782-a6fe-42d8-a26a-db1623d416f3" />
+
   </div>
 </details> <br>
 
 ### 개척/기록
 
+음식 사진과 평가를 등록하여 음식점을 기록할 수 있습니다.
+
 <img width="70%" src="https://user-images.githubusercontent.com/49361214/221789881-63c104fa-c13b-472c-8d6d-cad0cc20259b.png">
 
 <details>
-    <summary>개척/기록 자세히 보기</summary>
+  <summary>개척/기록 자세히 보기</summary>
+  <img width="20%" src="https://github.com/user-attachments/assets/6ca37b2d-8951-4575-9cfc-bb5e6bf2e2e7" />
+  <img width="20%" src="https://github.com/user-attachments/assets/91eb8a4a-15fc-4171-9253-c3973cf8c9f7" />
+  <img width="20%" src="https://github.com/user-attachments/assets/c1a98113-fd7a-44fa-a2da-8428be8b8b34" />
+  <img width="20%" src="https://github.com/user-attachments/assets/0f503eb0-7d3b-4391-994e-c5f49d4fc0b8" />
+  <img width="20%" src="https://github.com/user-attachments/assets/f8cab908-8d66-4fce-95af-23234375e106" />
+  <img width="20%" src="https://github.com/user-attachments/assets/aa6fd8de-81ef-49ba-aec5-a2a79cf497c0" />
+
+
 </details> <br>
 
 ### 음식점 지도
 
+맛집에 대한 정보와 푸이티아이를 기반으로 만족할 확률을 지도상의 마커로 보여줍니다. <br>
+카테고리, 지역별 필터링을 적용할 수 있습니다. <br>
+맛집을 검색할 수 있습니다.
+
 <img width="70%" src="https://user-images.githubusercontent.com/49361214/221789873-f14873ef-7185-4e8f-a5d9-f250506eb784.png">
 
 <details>
-    <summary>음식점 지도 자세히 보기</summary>
+  <summary>음식점 지도 자세히 보기</summary>
+  <img width="20%" src="https://github.com/user-attachments/assets/f8c85052-65eb-48ff-bbb2-77509c82c986" />
+  <img width="20%" src="https://github.com/user-attachments/assets/02090446-635d-44cc-b7f5-1bf65aa90620" />
+  <img width="20%" src="https://github.com/user-attachments/assets/f447637d-0b0f-4d3d-acb5-5a3d80e1f01e" />
+  <img width="20%" src="https://github.com/user-attachments/assets/e476cb4c-9764-4cc4-9a8e-0d5ef643a4fb" />
+
 </details> <br>
 
 ### 피드
 
+사용자가 기록한 맛집에 대한 정보를 피드로 볼 수 있습니다. <br>
+지역 필터링을 적용할 수 있습니다.
+
 <img width="70%" src="https://user-images.githubusercontent.com/49361214/221789885-16d8ed14-49df-40bd-9b8b-5814b9f6c7b3.png">
 
 <details>
-    <summary>피드 자세히 보기</summary>
+  <summary>피드 자세히 보기</summary>
+  <img width="20%" src="https://github.com/user-attachments/assets/9df55b10-f274-4f19-8d67-d89057fa7730" />
+  <img width="20%" src="https://github.com/user-attachments/assets/ae1846d1-ce50-445e-8b16-922f5f553e21" />
+
+
 </details> <br>
 
 <br><br>
