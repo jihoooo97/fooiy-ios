@@ -99,14 +99,46 @@
 
 ### Clean Architecture + MVVM
 
+```mermaid
+graph LR
+subgraph Presentation
+	A(View)
+	B(ViewModel)
+	A --> B
+end
+   
+subgraph Domain
+	C(Usecase<br>Protocol)
+	D(Usecase)
+	E(Service<br>Protocol)
+	B ---> C
+  D --> C
+  D --> E
+end
+    
+subgraph Networks
+  F(Service)
+  G(Server)
+  F --> E
+  F -.Request.-> G
+  G -.Response.-> F
+end
+```
+
+- Presentation, Domain, Network Layer로 분리하여 각 Layer의 역할을 나누었습니다.
+- MVVM 패턴으로 UI 로직과 비즈니스 로직을 분리했습니다.
+
 ### RxSwift
+연속된 escaping closure를 피하고, 비동기처리를 직관적으로 구현하기 위해 RxSwift를 사용하게 되었습니다.
 
 ### Server Driven UI
-- UI가 자주 변동되는 Feature에서 Server Driven UI와 A/B Test를 활용하여 스펙 변동이 잦은 UI를 효율적으로 개발
+푸이는 배포 초기에 UI 기획 변경이 잦아 반복적인 배포 과정이 비효율적이었습니다. <br> 
+변화하는 기획에 유연하게 대응할 수 있는 구조가 필요했기 때문에 서버에서 내려주는 데이터에 따라 UI를 구성하는 <br> 
+Server Driven UI를 도입하여 배포 없이도 화면 수정이 가능하도록 개선했습니다.
 
 ### PHPicker
-- 사진의 메타 데이터에서 음식 촬영 장소를 추출합니다.
-- 이를 활용하여 사용자가 음식점 위치를 지정해야하는 귀찮음을 덜어냈습니다.
+리뷰를 등록할 때마다 음식점의 주소를 지정해야하는 것이 번거롭다는 사용자의 피드백이 있었습니다. <br> 
+이를 개선하기 위해 사진의 메타 데이터에서 촬영 장소를 추출하여 음식점 주소를 지정해야하는 번거로움을 덜어냈습니다.
 
 <br><br>
 
@@ -118,13 +150,6 @@
   - `음식점 기록`: 음식 사진 업로드 기능 개발
   - `게시물 수정`: 게시물 수정 기능 개발
   - `유저 검색`: 유저 검색 기능 개발
-
-<br>
-
-### 🤔 **고민한 점**
-- Clean Architecture를 활용한 효율적인 서비스의 구조
-- Back-end단과 효율적인 네트워크 통신
-- 사용자와의 지속적인 소통을 통한 사용자 친화적 UI/UX 개발
 
 <br><br>
 
